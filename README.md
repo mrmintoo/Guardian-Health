@@ -67,7 +67,7 @@ The project incorporates the following machine learning algorithms:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/mr-akash05/Guardian-Health.git>
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
