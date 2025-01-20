@@ -104,7 +104,7 @@ The project incorporates the following machine learning algorithms:
 
 ### Team Members 
 
-1. Akash Gujju
+1. Akash Gujju ([@akash-gujju](https://www.linkedin.com/in/akash-gujju-1aa7a3264/))
 2. Yaswanth Sai
 3. Chandu Ummanaveni
 
