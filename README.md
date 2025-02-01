@@ -1,14 +1,21 @@
 <!-- PROJECT TITLE -->
 <div>
-  <h1 style="bold">
+  <h1 align="center",style="bold">
     GUARDIAN HEALTH
   </h1>
-  
-  <h3>
+  <h6 align="center">
     A Machine Learning-Based Disease Prediction System
-  </h3>
+  </h6>
   <hr>
 </div>
+  <h1 align="center">Hi there, I'm Mr Akash 👋</h1>
+<h3 align="center">Enthusiastic Data Science Student </h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akash-gujju-1aa7a3264/"><img src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-hero.png" alt="LinkedIn" width=100></a>
+  <a href="mailto:akashgujju05@gmail.com"><img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202010/Google_Gmail_New_Logo_India_To_1200x768.jpeg?size=690:388" alt="Gmail" height=40 width=100></a>
+</p>
+<hr
 
 <h2>Overview</h2>
 Healthcare diagnostics face challenges such as delays, inaccessibility, and occasional errors. "Guardian Health" leverages machine learning to address these issues by predicting diseases based on user-provided symptoms. Our system simplifies healthcare decision-making by offering an accessible and accurate diagnostic tool.
